@@ -8,4 +8,4 @@
  * Develop a paint using Java Swing.
  
  ## Knowledge obtained
- * Improve knowlege about Java Swing
+ * Improve knowlege about Java Swing.
