@@ -1,2 +1,11 @@
 # Paint
- Program created using Java Swing. Developed by me and my ex couple.
+ <img  src="./logo.png"/>
+ 
+ ## Description
+ Program created using Java Swing.
+ 
+ ## Targets
+ * Develop a paint using Java Swing.
+ 
+ ## Knowledge obtained
+ * Improve knowlege about Java Swing
